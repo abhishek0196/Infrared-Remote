@@ -52,15 +52,15 @@ void loop() {
           Serial.print(q);
 
           unsigned long x = strToHex(q);
-          if( strcmp(q,"Sony") == 0 )
+          if( strcmp(p,"Sony") == 0 )
           irsend.sendSony( x , 32 );
-          else if( strcmp(q,"Samsung") == 0)
+          else if( strcmp(p,"Samsung") == 0)
           irsend.sendSAMSUNG( x , 32 );
-          else if( strcmp(q,"LG") == 0)
+          else if( strcmp(p,"LG") == 0)
           irsend.sendLG( x , 32 );
-          else if( strcmp(q,"Panasonic") == 0)
+          else if( strcmp(p,"Panasonic") == 0)
           irsend.sendPanasonic( x , 32 );
-          else if( strcmp(q,"Others") == 0)
+          else if( strcmp(p,"Others") == 0)
           irsend.sendNEC( x , 32 );
           
       }
