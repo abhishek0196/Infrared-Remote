@@ -23,12 +23,11 @@ void messageArrived(MQTT::MessageData& md)
     
     //arr[i]='\0';
     
-        pc.printf("Hello 1");
+      //  pc.printf("Hello 1");
         char *cmp = "2";
         if(  strncmp((char *)message.payload, cmp , 1) == 0  )
         {
-            pc.printf("Hello 2");
-            serial.printf("Mode2");    
+    //            serial.printf("Mode2");    
             mode = 1;
         }
         else  
