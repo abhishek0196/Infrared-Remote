@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/1a7c9d5908d533ed2836c213ea60fc05/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/5480e770e1d775154d4155d6de2aa6ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/26ba88ce08c19653fede0fed42b918be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/jagraj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d974e97fe78b1e864d7547df19d0859b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/950506affd98d35470763a672d81e8aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/f0e521d33d103b86c6ec7dec7df3d854/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/a6a0741175274feb41a239161eff451c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/e93d0e11c826d1ae40ad1ca0d58dce37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/e952c147ae99dc641f8d23dff65de2e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/d70551d6a8f1073ffb66d153ec3433dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/f7a81f6a2bd3bf6b73382ef8bc50ce7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/95d82e47995c14559e9e8c3f35d3659e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/29505de110d41d662e20d21d5137d0e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/3f4c64375d83a6bcb89ef755c1ad8bc9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/eeabc79f79a99f2bb55f5c445261d3b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/8a317df6394c834c7c5dcfa1aa9a1ad8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/8dac0187d12a427cede3e8a420be96e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/a7f1827468a3b208e5d14f1f02e46044/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/90b126bd859115b8214b0cf9328954c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/af5697396212d903e2c4f122a73cce01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/f1eacd24bf2e34adff5327e94d744a39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/7debac7b43a048ec7f201914fd1d275b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/72ea6b00505f3e80b57b77aa85b12eff/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/jagraj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/287f07bf7e028281a19cc396beb7dc0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/6dec0d3fd0c0ddff036b4797487cf56b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/69240be50bd63bf06991d31c46729bb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/c41567ad7cc639782708832e41804542/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/94fcdb87129a57e26a4759e0bce43433/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/jagraj/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/14285b39bd729332fb3ea3f2a99cef79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/5f93b6a7d8fc9d81829fc50f9c91fd1e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/jagraj/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/87dc4676656abfa13f045392a8d229fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/jagraj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f79b6161a61917a10355761ef5d1de05/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:8:22-72
+application
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:10:5-38:19
+MERGED from [com.android.support:design:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/1a7c9d5908d533ed2836c213ea60fc05/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/1a7c9d5908d533ed2836c213ea60fc05/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/jagraj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d974e97fe78b1e864d7547df19d0859b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/jagraj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d974e97fe78b1e864d7547df19d0859b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/7debac7b43a048ec7f201914fd1d275b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/7debac7b43a048ec7f201914fd1d275b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/6dec0d3fd0c0ddff036b4797487cf56b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/6dec0d3fd0c0ddff036b4797487cf56b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/7debac7b43a048ec7f201914fd1d275b/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.anurag.myapp.MainActivity
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.anurag.myapp.Main2Activity
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:27:9-31:20
+	android:name
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:27:19-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:28:13-30:49
+	android:value
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:30:17-46
+	android:name
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:29:17-63
+service#org.eclipse.paho.android.service.MqttService
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:33:9-80
+	android:name
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:33:18-77
+activity#com.example.anurag.myapp.remote_select
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:35:9-51
+	android:name
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:35:19-48
+activity#com.example.anurag.myapp.remote
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:36:9-44
+	android:name
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:36:19-41
+activity#com.example.anurag.myapp.available_remotes
+ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:37:9-64
+	android:name
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml:37:19-52
+uses-sdk
+INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/1a7c9d5908d533ed2836c213ea60fc05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/1a7c9d5908d533ed2836c213ea60fc05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/5480e770e1d775154d4155d6de2aa6ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/5480e770e1d775154d4155d6de2aa6ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/26ba88ce08c19653fede0fed42b918be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/26ba88ce08c19653fede0fed42b918be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/jagraj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d974e97fe78b1e864d7547df19d0859b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/jagraj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d974e97fe78b1e864d7547df19d0859b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/950506affd98d35470763a672d81e8aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/950506affd98d35470763a672d81e8aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/f0e521d33d103b86c6ec7dec7df3d854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/f0e521d33d103b86c6ec7dec7df3d854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/a6a0741175274feb41a239161eff451c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/a6a0741175274feb41a239161eff451c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/e93d0e11c826d1ae40ad1ca0d58dce37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/e93d0e11c826d1ae40ad1ca0d58dce37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/e952c147ae99dc641f8d23dff65de2e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/e952c147ae99dc641f8d23dff65de2e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/d70551d6a8f1073ffb66d153ec3433dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/d70551d6a8f1073ffb66d153ec3433dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/f7a81f6a2bd3bf6b73382ef8bc50ce7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/f7a81f6a2bd3bf6b73382ef8bc50ce7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/95d82e47995c14559e9e8c3f35d3659e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/95d82e47995c14559e9e8c3f35d3659e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/29505de110d41d662e20d21d5137d0e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/29505de110d41d662e20d21d5137d0e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/3f4c64375d83a6bcb89ef755c1ad8bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/3f4c64375d83a6bcb89ef755c1ad8bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/eeabc79f79a99f2bb55f5c445261d3b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/eeabc79f79a99f2bb55f5c445261d3b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/8a317df6394c834c7c5dcfa1aa9a1ad8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/8a317df6394c834c7c5dcfa1aa9a1ad8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/8dac0187d12a427cede3e8a420be96e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/8dac0187d12a427cede3e8a420be96e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/a7f1827468a3b208e5d14f1f02e46044/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/a7f1827468a3b208e5d14f1f02e46044/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/90b126bd859115b8214b0cf9328954c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/90b126bd859115b8214b0cf9328954c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/af5697396212d903e2c4f122a73cce01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/af5697396212d903e2c4f122a73cce01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/f1eacd24bf2e34adff5327e94d744a39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/f1eacd24bf2e34adff5327e94d744a39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/7debac7b43a048ec7f201914fd1d275b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/7debac7b43a048ec7f201914fd1d275b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/72ea6b00505f3e80b57b77aa85b12eff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/72ea6b00505f3e80b57b77aa85b12eff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/jagraj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/287f07bf7e028281a19cc396beb7dc0e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/jagraj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/287f07bf7e028281a19cc396beb7dc0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/6dec0d3fd0c0ddff036b4797487cf56b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/6dec0d3fd0c0ddff036b4797487cf56b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/69240be50bd63bf06991d31c46729bb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/69240be50bd63bf06991d31c46729bb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/c41567ad7cc639782708832e41804542/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/c41567ad7cc639782708832e41804542/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/94fcdb87129a57e26a4759e0bce43433/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/94fcdb87129a57e26a4759e0bce43433/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/jagraj/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/14285b39bd729332fb3ea3f2a99cef79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/jagraj/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/14285b39bd729332fb3ea3f2a99cef79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/5f93b6a7d8fc9d81829fc50f9c91fd1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/jagraj/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/5f93b6a7d8fc9d81829fc50f9c91fd1e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/jagraj/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/87dc4676656abfa13f045392a8d229fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/jagraj/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/87dc4676656abfa13f045392a8d229fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/jagraj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f79b6161a61917a10355761ef5d1de05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/jagraj/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f79b6161a61917a10355761ef5d1de05/AndroidManifest.xml:20:5-44
+INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jagraj/Downloads/MyApp/app/src/main/AndroidManifest.xml

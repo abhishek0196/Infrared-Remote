@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main2Activity"
+    android:orientation="vertical"
+    android:background="@color/backgroundcolor"
+    android:gravity="center">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp">
+
+        <!--<android.support.v7.widget.CardView-->
+            <!--android:foreground="?android:attr/selectableItemBackground"-->
+            <!--android:layout_width="340dp"-->
+            <!--android:layout_height="600dp"-->
+            <!--android:layout_margin="10dp"-->
+            <!--&gt;-->
+
+
+        <!--****************************** layer 1 start ****************************-->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2"
+            android:padding="18dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/btn_power"
+                    android:layout_height="70dp"
+                    android:layout_width="70dp"
+                    android:background="@drawable/circlebackgroundred"
+                    android:src="@drawable/ic_power_settings_new_white_24dp"
+                    android:padding="8dp"
+                    android:layout_marginTop="5dp"
+                    android:clickable="true"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="I/O"
+                    android:textColor="@color/black"/>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/btn_mute"
+                    android:layout_height="70dp"
+                    android:layout_width="70dp"
+                    android:background="@drawable/circlebackgroundblack"
+                    android:src="@drawable/ic_volume_off_white_24dp"
+                    android:padding="8dp"
+                    android:layout_marginTop="5dp"
+                    android:clickable="true"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="Mute"
+                    android:textColor="@color/black"/>
+            </LinearLayout>
+
+        </LinearLayout>
+        <!--****************************** layer 1 end ****************************-->
+
+
+        <!--****************************** layer 2 start****************************-->
+        <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="2"
+                    android:padding="18dp">
+
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageButton
+                            android:id="@+id/btn_chup"
+                            android:layout_height="70dp"
+                            android:layout_width="70dp"
+                            android:background="@drawable/circlebackgroundblack"
+                            android:src="@drawable/ic_keyboard_arrow_up_white_24dp"
+                            android:padding="8dp"
+                            android:layout_marginTop="5dp"
+                            android:clickable="true"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:text="Channel up"
+                            android:textColor="@color/black"/>
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageButton
+                            android:id="@+id/btn_chdown"
+                            android:layout_height="70dp"
+                            android:layout_width="70dp"
+                            android:background="@drawable/circlebackgroundblack"
+                            android:src="@drawable/ic_keyboard_arrow_down_white_24dp"
+                            android:padding="8dp"
+                            android:layout_marginTop="5dp"
+                            android:clickable="true"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:text="Channel down"
+                            android:textColor="@color/black"/>
+                    </LinearLayout>
+
+                </LinearLayout>
+        <!--****************************** layer 2 end ****************************-->
+
+
+        <!--****************************** layer 3 start****************************-->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2"
+            android:padding="18dp">
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/btn_volup"
+                    android:layout_height="70dp"
+                    android:layout_width="70dp"
+                    android:background="@drawable/circlebackgroundblack"
+                    android:src="@drawable/ic_volume_up_white_24dp"
+                    android:padding="8dp"
+                    android:layout_marginTop="5dp"
+                    android:clickable="true"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="Vol+"
+                    android:textColor="@color/black"/>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/btn_voldn"
+                    android:layout_height="70dp"
+                    android:layout_width="70dp"
+                    android:background="@drawable/circlebackgroundblack"
+                    android:src="@drawable/ic_volume_down_white_24dp"
+                    android:padding="8dp"
+                    android:layout_marginTop="5dp"
+                    android:clickable="true"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="Vol-"
+                    android:textColor="@color/black"/>
+            </LinearLayout>
+
+        </LinearLayout>
+        <!--****************************** layer 3 end ****************************-->
+
+
+        <Button
+            android:id="@+id/btn_done1"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:text="@string/done"
+            android:textColor="@color/backgroundcolor"
+            android:background="@color/black"
+            android:layout_gravity="center"/>
+
+        <Button
+            android:id="@+id/btn_clear"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:text="Clear"
+            android:textColor="@color/backgroundcolor"
+            android:background="@color/black"
+            android:layout_gravity="right"/>
+
+
+        <!--</android.support.v7.widget.CardView>-->
+    </LinearLayout>
+</android.support.v7.widget.LinearLayoutCompat>

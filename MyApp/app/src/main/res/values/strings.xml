@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="brand">Select brand</string>
+    <string name="device">Select device</string>
+    <string name="next">Next</string>
+    <string name="done">Done</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="device">
+        <item>Television</item>
+        <item>Projector</item>
+        <item>Air Conditioner</item>
+    </string-array>
+
+    <string-array name="brand">
+        <item>Panasonic</item>
+        <item>LG</item>
+        <item>Sony</item>
+        <item>Samsung</item>
+        <item>Others</item>
+    </string-array>
+    <string name="title_activity_remote">remote</string>
+
+</resources>
